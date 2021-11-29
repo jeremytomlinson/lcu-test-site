@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto%3Aital%2Cwght%400%2C400%3B0%2C500%3B0%2C700&display=swap");
+.root_reset {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  color: #000000d9 /* plasmic-token: vOPQIfd2vRc9 */;
+  text-align: left;
+  text-transform: none;
+  line-height: 1.5;
+  letter-spacing: normal;
+  white-space: pre-wrap;
+}
+
+:where(.root_reset) a,
+:where(.root_reset) .plasmic_default__a,
+:where(.root_reset) .a,
+a:where(.root_reset) {
+}

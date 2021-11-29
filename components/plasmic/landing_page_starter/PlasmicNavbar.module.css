@@ -1,0 +1,198 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 16px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-width: 0;
+  margin-left: calc(0px - 16px);
+  width: calc(100% + 16px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root {
+    padding: 32px;
+  }
+}
+.freeBox__ebi1 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  width: 100%;
+  max-width: 1080px /* plasmic-token: biAU1d8H1CXy */;
+  min-width: 0;
+}
+.freeBox__ebi1 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 0;
+  margin-left: calc(0px - 16px);
+  width: calc(100% + 16px);
+}
+.freeBox__ebi1 > :global(.__wab_flex-container) > *,
+.freeBox__ebi1 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ebi1 > :global(.__wab_flex-container) > picture > img,
+.freeBox__ebi1
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 16px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__ebi1 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__ebi1 > :global(.__wab_flex-container) {
+    flex-direction: column;
+    align-items: center;
+    margin-left: calc(0px - 0px);
+    width: calc(100% + 0px);
+    margin-top: calc(0px - 16px);
+    height: calc(100% + 16px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__ebi1 > :global(.__wab_flex-container) > *,
+  .freeBox__ebi1 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__ebi1 > :global(.__wab_flex-container) > picture > img,
+  .freeBox__ebi1
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-left: 0px;
+    margin-top: 16px;
+  }
+}
+.text {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  font-size: 36px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text {
+    text-align: center;
+  }
+}
+.freeBox__uYXg7 {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__uYXg7 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__uYXg7 > :global(.__wab_flex-container) > *,
+.freeBox__uYXg7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__uYXg7 > :global(.__wab_flex-container) > picture > img,
+.freeBox__uYXg7
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__uYXg7 > :global(.__wab_flex-container) {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: calc(0px - 8px);
+    height: calc(100% + 8px);
+  }
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__uYXg7 > :global(.__wab_flex-container) > *,
+  .freeBox__uYXg7 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+  .freeBox__uYXg7 > :global(.__wab_flex-container) > picture > img,
+  .freeBox__uYXg7
+    > :global(.__wab_flex-container)
+    > :global(.__wab_slot)
+    > picture
+    > img {
+    margin-top: 8px;
+  }
+}
+.button__rzg65:global(.__wab_instance) {
+  position: relative;
+}
+.svg__kuH0Z {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.svg___2TieM {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.button___6J8J7:global(.__wab_instance) {
+  position: relative;
+}
+.svg___5Lmtv {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.svg___04TD8 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.freeBox__bagxe {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.button__hagt6 {
+  font-size: 18px;
+  line-height: 28px;
+  color: #ffffff;
+  font-weight: 500;
+  background: #000000d9;
+  border-radius: 6px;
+  border-width: 0px;
+}
+.button__tXyhR:global(.__wab_instance) {
+  position: relative;
+}
+.svg__kyHof {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.svg__yFCj0 {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}

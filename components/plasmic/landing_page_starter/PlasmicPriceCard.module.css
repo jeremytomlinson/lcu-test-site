@@ -1,0 +1,203 @@
+.root {
+  box-shadow: 0px 10px 10px 0px #00000026;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  max-width: 400px;
+  background: #ffffff;
+  position: relative;
+  border-radius: 16px;
+}
+.root__primary {
+  border: 4px solid #34c759 /* plasmic-token: h5zBO36JDz5t */;
+}
+.root__borders_flatLeft {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+.root__borders_flatRight {
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0px;
+}
+.freeBox___9LYw1 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  padding: 32px;
+}
+.freeBox___9LYw1 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox___9LYw1 > :global(.__wab_flex-container) > *,
+.freeBox___9LYw1 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___9LYw1 > :global(.__wab_flex-container) > picture > img,
+.freeBox___9LYw1
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.freeBox__icAdw {
+  display: flex;
+  flex-direction: row;
+}
+.freeBox__k21Rm {
+  display: flex;
+  position: relative;
+}
+.slotTargetLabel {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+}
+.freeBox__pseSl {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox__pseSl > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox__pseSl > :global(.__wab_flex-container) > *,
+.freeBox__pseSl > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__pseSl > :global(.__wab_flex-container) > picture > img,
+.freeBox__pseSl
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.freeBox__i5Yhf {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.text__uFCc {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 32px;
+  color: #000000d9 /* plasmic-token: vOPQIfd2vRc9 */;
+  width: auto;
+  display: inline-block;
+}
+.freeBox___7Oimo {
+  display: inline-flex;
+  position: relative;
+  width: auto;
+}
+.slotTargetDollars {
+  font-size: 48px;
+  font-weight: 800;
+  color: #000000d9 /* plasmic-token: vOPQIfd2vRc9 */;
+  line-height: 1;
+}
+.text__yXjsN {
+  line-height: 28px;
+  color: #05050599 /* plasmic-token: ElTzqu9JEMiu */;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 20px;
+  height: auto;
+}
+.divider:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.freeBox__vhjJ {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  background: #f2f2f7;
+  height: 100%;
+  min-height: 0;
+  padding: 32px;
+}
+.freeBox__vhjJ > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  min-height: 0;
+  margin-top: calc(0px - 32px);
+  height: calc(100% + 32px);
+}
+.freeBox__vhjJ > :global(.__wab_flex-container) > *,
+.freeBox__vhjJ > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__vhjJ > :global(.__wab_flex-container) > picture > img,
+.freeBox__vhjJ
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 32px;
+}
+.freeBox__ncKv5 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+.freeBox__ncKv5 > :global(.__wab_flex-container) {
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.freeBox__ncKv5 > :global(.__wab_flex-container) > *,
+.freeBox__ncKv5 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__ncKv5 > :global(.__wab_flex-container) > picture > img,
+.freeBox__ncKv5
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.valueProp__aEvQ:global(.__wab_instance) {
+  width: 100%;
+  min-width: 0;
+}
+.svg___8QYDb {
+  object-fit: cover;
+  color: #34c759;
+  width: 24px;
+  height: 24px;
+}
+.valueProp__n0Aut:global(.__wab_instance) {
+  width: 100%;
+  min-width: 0;
+}
+.svg__iUcZd {
+  object-fit: cover;
+  color: #34c759;
+  width: 24px;
+  height: 24px;
+}
+.svg__gvxIg {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.text__aSamt {
+  height: auto;
+}
+.svg__kr6VT {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
